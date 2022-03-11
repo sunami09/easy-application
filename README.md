@@ -1,5 +1,5 @@
 # Easy Application
-
+(imp)
 Have you ever tried to apply for a company only to discover they won't let you upload your resume? Instead you have to meticulously fill out pages of information (all of which could be found on your resume).
 
 This is a list of companies that are easy to apply to. These companies use a job application system that allows a candidate to focus on their application rather spend energy fighting bad UX (e.g. Jobvite, Lever, Greenhouse are all good systems). If the company uses a system that requires the candidate to manually input every field from their resume (e.g. Taleo and Brassring) they are not allowed on this list.
